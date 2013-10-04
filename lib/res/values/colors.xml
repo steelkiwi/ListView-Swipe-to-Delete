@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <color name="lineColor">#eeeeee</color>
+    <color name="textColor">#000000</color>
+    <color name="crossedTextColor">#cccccc</color>
+    <color name="groupTextColor">#0000ff</color>
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">ListViewSwipeToDelete</string>
+    <string name="help">Demo for list navigation like in Any.do app:\n\n
+- swipe to the right to mark list item;\n
+- swipe to the left to remove mark from list item;\n
+- press X button to remove marked list item;\n
+- marked list items are moved to the bottom of the list;\n
+- shake device to remove all marked list items.</string>
+    <string name="listDemoBtnTitle">ListView Demo</string>
+    <string name="expListDemoBtnTitle">ExpandableListView Demo</string>
+    <string name="editAction">Edit</string>
+    <string name="shareAction">Share</string>
+
+</resources>
